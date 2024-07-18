@@ -8,6 +8,6 @@ int main(){
     a=a+b;
     b=a-b;
     a=a-b;
-    cout<<"the value of a and b is\t"<<a << b;
+    cout<<"the value of a and b is \t"<<a << b;
     return 0;
 }
