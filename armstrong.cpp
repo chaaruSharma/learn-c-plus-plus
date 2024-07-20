@@ -11,6 +11,6 @@ int main(){
         sum=sum+pow(rem,3);
         n=n/10;
     }
-    cout<<"the arm strong no is"<<" "<<sum;
+    cout<<"the arm strong no is"<<" "<<"done"<<sum;
     return 0;
 }//solve for n= 5;
