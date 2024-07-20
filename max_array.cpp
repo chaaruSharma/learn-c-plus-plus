@@ -21,6 +21,7 @@ cin>>n;
     }
     
     cout<<"the maximum element in the array is : "<<mx;
+    cout<<"thanks";
     
     return 0;
 }
